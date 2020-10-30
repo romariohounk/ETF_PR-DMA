@@ -1,0 +1,53 @@
+{
+    "initial_capital": 1000.00,
+    "returns": [
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-18 20:05:20.559034"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-19 20:05:18.476868"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-20 20:05:26.255817"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-23 20:05:18.135422"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-24 20:05:29.428539"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-25 20:05:19.451160"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-26 20:05:20.553717"
+        },
+        {
+            "portfolio_return": 0.00000000000000000,
+            "portfolio_value": 1000.00,
+            "market_return": 0.00000000000000000,
+            "date": "2020-03-27 20:05:37.916473"
+        }
+    ]
+}
