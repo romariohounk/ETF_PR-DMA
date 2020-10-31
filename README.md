@@ -6,7 +6,7 @@ Use PR-DMA to obtain useful daily reporting allowing you to monitor your portfol
 Users can choose which ETFs to track.
 
 #### Features:
-* Track all ETFs available on `Bourse Direct` (one of the best French broker if not the best)!
+* Track all ETFs available on one of the best French broker if not the best!
 * Automated reporting based on user parameters
 * Automated technical analysis (TA)
 * Slack notifications for the reporting. Emails can be added according to the user's needs.
